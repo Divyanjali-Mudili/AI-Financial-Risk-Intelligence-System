@@ -47,6 +47,7 @@ Provides interpretability but struggles with complex patterns.
 An ensemble model that improves performance by combining multiple decision trees.
 
 📸 Result:
+
 ![Random Forest](screenshots/RandomForest.png)
 
 📌 Performance Insight:
