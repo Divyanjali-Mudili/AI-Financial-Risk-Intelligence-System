@@ -47,7 +47,7 @@ Provides interpretability but struggles with complex patterns.
 An ensemble model that improves performance by combining multiple decision trees.
 
 📸 Result:
-![Random Forest](screenshots/random_forest.png)
+![Random Forest](screenshots/RandomForest.png)
 
 📌 Performance Insight:
 - Better than Logistic Regression  
@@ -60,7 +60,7 @@ An ensemble model that improves performance by combining multiple decision trees
 A gradient boosting model that optimizes performance through sequential learning.
 
 📸 Result:
-![XGBoost](screenshots/xgboost.png)
+![XGBoost](screenshots/xgboost.jpeg)
 
 📌 Performance Insight:
 - Best ROC-AUC (~0.71+)  
@@ -99,7 +99,7 @@ This step converts ML output into a **business-friendly decision system**, simil
 K-Means clustering is used to group users based on financial behavior.
 
 📸 Clustering Result:
-![Clustering](screenshots/clustering.png)
+![Clustering](screenshots/clustering.jpeg)
 
 📌 Insight:
 - One cluster represents **high-risk financial behavior**  
@@ -113,7 +113,7 @@ K-Means clustering is used to group users based on financial behavior.
 An AI-powered chatbot is integrated to make the system **interactive and explainable**.
 
 📸 Demo:
-![LLM Demo](screenshots/llm_demo.png)
+![LLM Demo](screenshots/llm_demo.mp4)
 
 💬 Users can ask:
 - Why is my score low?  
