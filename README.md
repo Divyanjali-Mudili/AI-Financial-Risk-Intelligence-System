@@ -34,6 +34,7 @@ A baseline model used for probability-based classification.
 Provides interpretability but struggles with complex patterns.
 
 📸 Result:
+
 ![Logistic Regression](screenshots/Logistic_Regression.png)
 
 📌 Performance Insight:
@@ -61,6 +62,7 @@ An ensemble model that improves performance by combining multiple decision trees
 A gradient boosting model that optimizes performance through sequential learning.
 
 📸 Result:
+
 ![XGBoost](screenshots/xgboost.jpeg)
 
 📌 Performance Insight:
@@ -73,6 +75,7 @@ A gradient boosting model that optimizes performance through sequential learning
 ### 📊 Model Comparison
 
 📸 Comparison:
+
 ![Model Comparison](screenshots/model_comparison.jpeg)
 
 📌 Insight:
@@ -88,6 +91,7 @@ Model predictions (Probability of Default) are transformed into a **financial sc
 - Lower probability of default → Higher financial score → Lower risk  
 
 📸 Example Output:
+
 ![Financial Score](screenshots/xgboost_scores.png)
 
 📌 Insight:
@@ -100,6 +104,7 @@ This step converts ML output into a **business-friendly decision system**, simil
 K-Means clustering is used to group users based on financial behavior.
 
 📸 Clustering Result:
+
 ![Clustering](screenshots/clustering.jpeg)
 
 📌 Insight:
@@ -114,6 +119,7 @@ K-Means clustering is used to group users based on financial behavior.
 An AI-powered chatbot is integrated to make the system **interactive and explainable**.
 
 📸 Demo:
+
 ![LLM Demo](screenshots/llm_demo.mp4)
 
 💬 Users can ask:
@@ -127,7 +133,7 @@ The LLM converts technical outputs into **human-understandable explanations**, i
 
 ---
 
-## 📂 Dataset (Lending Club)
+## 📂 Dataset (Lending Club):
 
 This project uses the **Lending Club Loan Dataset**, a real-world dataset from a peer-to-peer lending platform.
 
