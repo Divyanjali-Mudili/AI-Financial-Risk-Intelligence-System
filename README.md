@@ -34,7 +34,7 @@ A baseline model used for probability-based classification.
 Provides interpretability but struggles with complex patterns.
 
 📸 Result:
-![Logistic Regression](screenshots/Logistic Regression.png)
+![Logistic Regression](screenshots/Logistic_Regression.png)
 
 📌 Performance Insight:
 - ROC-AUC ~ 0.70  
@@ -72,7 +72,7 @@ A gradient boosting model that optimizes performance through sequential learning
 ### 📊 Model Comparison
 
 📸 Comparison:
-![Model Comparison](screenshots/model_comparison.png)
+![Model Comparison](screenshots/model_comparison.jpeg)
 
 📌 Insight:
 XGBoost performs the best overall, making it the most suitable model for financial risk prediction in this project.
@@ -144,7 +144,7 @@ Used to model **borrower default risk and financial behavior**, making it ideal 
 
 ---
 
-📊 Applications in Finance:
+**📊 Applications in Finance:**
 This approach is not limited to banking systems. It can be applied across multiple financial domains, including:
 
 - 🏦 Banking – Loan approval and credit risk assessment  
