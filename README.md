@@ -34,7 +34,7 @@ A baseline model used for probability-based classification.
 Provides interpretability but struggles with complex patterns.
 
 📸 Result:
-![Logistic Regression](screenshots/logistic.png)
+![Logistic Regression](screenshots/Logistic Regression.png)
 
 📌 Performance Insight:
 - ROC-AUC ~ 0.70  
@@ -94,20 +94,6 @@ This step converts ML output into a **business-friendly decision system**, simil
 
 ---
 
-📊 Applications in Finance:
-This approach is not limited to banking systems. It can be applied across multiple financial domains, including:
-
-- 🏦 Banking – Loan approval and credit risk assessment  
-- 💳 Fintech – Digital lending and user risk profiling  
-- 🏢 NBFCs – Alternative credit scoring for underserved users  
-- 📈 Investment Firms – Risk profiling of clients  
-- 💼 Wealth Management – Portfolio risk categorization  
-- 🛡️ Insurance – Policy risk evaluation and premium pricing  
-
-👉 The system enables organizations to **quantify risk, segment users, and make data-driven financial decisions**.
-
----
-
 ## 🧩 Clustering (Customer Segmentation)
 
 K-Means clustering is used to group users based on financial behavior.
@@ -155,6 +141,20 @@ This project uses the **Lending Club Loan Dataset**, a real-world dataset from a
 
 ### 🎯 Purpose:
 Used to model **borrower default risk and financial behavior**, making it ideal for building real-world credit systems.
+
+---
+
+📊 Applications in Finance:
+This approach is not limited to banking systems. It can be applied across multiple financial domains, including:
+
+- 🏦 Banking – Loan approval and credit risk assessment  
+- 💳 Fintech – Digital lending and user risk profiling  
+- 🏢 NBFCs – Alternative credit scoring for underserved users  
+- 📈 Investment Firms – Risk profiling of clients  
+- 💼 Wealth Management – Portfolio risk categorization  
+- 🛡️ Insurance – Policy risk evaluation and premium pricing  
+
+👉 The system enables organizations to **quantify risk, segment users, and make data-driven financial decisions**.
 
 ---
 
