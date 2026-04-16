@@ -120,7 +120,7 @@ An AI-powered chatbot is integrated to make the system **interactive and explain
 
 📸 Demo:
 
-![LLM Demo](screenshots/llm_demo.mp4)
+![LLM Demo](screenshots/llm_demo.png)
 
 💬 Users can ask:
 - Why is my score low?  
